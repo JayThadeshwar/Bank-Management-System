@@ -1,1 +1,1 @@
-# javaBankProject
+# Java Bank mini-project
